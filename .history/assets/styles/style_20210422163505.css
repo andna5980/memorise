@@ -11,9 +11,7 @@ header {
     color: whitesmoke;
     background-color: #845EC2;
 }
-
-
-/*   ROWS AND COLUMM AREAS   */
+ /*   ROWS AND COLUMM AREAS   */
 .test-red{
     border:1px solid red
 }
@@ -21,36 +19,3 @@ header {
 .test-blue {
     border: 1px solid blue;
 }
-
-/*------------------------------------------HEADER------------------------*/
-
-
-
-
-
-
-
-
-
-
-/*----------------------------------GAME DESCRIPTION -----------------------*/
-
-
-
-
-
-
-
-
-
-
-
-/*--------------------------------PLAY ZONE--------------------------------*/
-
-
-
-
-
-
-
-/*--------------------------------FOOTER--------------------------------*/
