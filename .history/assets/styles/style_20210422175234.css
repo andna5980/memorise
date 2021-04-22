@@ -69,9 +69,8 @@ footer {
     font-family: Original Surfer, Amatic, Helvetica;
     color: whitesmoke;
     background-color: #845EC2;
-    height: 90px;
+    height: 80px;
     width: 100%;
-    overflow: hidden;
 }
 
 .social-networks {
@@ -80,10 +79,7 @@ footer {
 
 .social-networks a {
     color: white;
-    margin: 1px;
-    padding: 1px;
+    margin: auto;
     display: inline-block;
-
-
 
 }
