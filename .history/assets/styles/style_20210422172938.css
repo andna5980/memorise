@@ -41,9 +41,9 @@ header {
 /*----------------------------------GAME DESCRIPTION -----------------------*/
 
 .game-description {
-    margin: 1px;
+    margin: 5px;
     background-color: #FFC75F;
-    color: black;
+    color: white;
 }
 
 
