@@ -36,7 +36,7 @@ header {
 /*----------------------------------CHANGE BACKGROUND COLOR AREA -----------------------*/
 
 .change-color {
-    background-color: #FFC75F;
+    background-color: black;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -60,7 +60,7 @@ header {
 /*--------------------------------GAME AREA--------------------------------*/
 
 #game-box {
-    background-color: black;
+    background-color: #FFC75F;
     height: 500px;
 
 }
