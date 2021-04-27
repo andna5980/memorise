@@ -2,7 +2,7 @@
 let colors = ['black','blue','yellow', 'white','brown'];
 
 //get button
-let button = document.getElementById('#changecolor');
+let button = document.getElementsByClassName('.changecolor');
 
 //add Event
 changecolor.addEventListener('click', function(){
