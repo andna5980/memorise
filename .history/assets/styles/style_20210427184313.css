@@ -44,10 +44,7 @@ header {
 #changecolor {
  margin: auto;
  /*margin-left: 35%;*/
- height: 25px;
- display: flex;
-    justify-content: center;
-    align-items: center;
+ height: 100px;
 }
 
 
