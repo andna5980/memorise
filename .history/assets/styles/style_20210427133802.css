@@ -39,8 +39,8 @@ header {
     background-color: black;
 }
 #changecolor {
- text-align: center;
- /*margin-left: 35%;*/
+ display: inline-block;
+ margin-left: 50%;
 }
 
 
