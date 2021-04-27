@@ -8,7 +8,7 @@ let button = document.getElementsByClassName('.changecolor');
 changecolor.addEventListener('click', function(){
     
     //add random color
-    var randomColor = colors[Math.floor(Math.random() * colors.length)]
+    var randomColor = colors[Math.floor(Math.random() * colors.length)
     let container = document.getElementsByClassName('.game-area-box');
 
     container.style.background = randomColor;
