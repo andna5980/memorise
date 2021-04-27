@@ -5,7 +5,7 @@ let colors = ['black','blue','yellow', 'white','brown'];
 let button = document.getElementById('changecolor');
 
 //add Event
-button.addEventListener('click', function(){
+changecolor.addEventListener('click', function(){
     
     //add random color
     var randomColor = colors[Math.floor(Math.random() * colors.length)]
