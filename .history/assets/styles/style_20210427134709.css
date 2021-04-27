@@ -39,7 +39,7 @@ header {
     background-color: black;
 }
 #changecolor {
- margin: auto;
+ display: grid;
  /*margin-left: 35%;*/
 }
 
