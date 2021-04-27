@@ -14,5 +14,3 @@ button.addEventListener('click', function(){
     container.style.background = randomColor;
 })
 
-
-

@@ -9,10 +9,8 @@ button.addEventListener('click', function(){
     
     //add random color
     var randomColor = colors[Math.floor(Math.random() * colors.length)]
-    let container = document.getElementById('game-box')
+    let container = document.getElementbyId('game-box');
 
     container.style.background = randomColor;
 })
-
-
 
