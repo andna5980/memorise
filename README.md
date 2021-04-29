@@ -33,6 +33,11 @@ This is Memory game Website. This website has been designed to be responsibe and
     -   #### Imagery. 
         -   All the imagery we used is based on LEGO, either LEGO Characters or LEGO bricks.
         
-*   ### Wireframes. ----- LETS CHANGE!
+*   ### Wireframes
+
+    -   Home Page Wireframe - [View](https://github.com/andna5980/memorise/blob/main/assets/wireframes/homepage.pdf)
+
+    -   Mobile Wireframe - [View](https://github.com/andna5980/memorise/blob/main/assets/wireframes/Mobile.pdf)
+
 
     
