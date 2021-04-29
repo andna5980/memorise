@@ -35,9 +35,9 @@ This is Memory game Website. This website has been designed to be responsibe and
         
 *   ### Wireframes
 
-    -   Home Page Wireframe - [View](
+    -   Home Page Wireframe - [View](https://github.com/andna5980/memorise/blob/main/assets/wireframes/homepage.pdf)
 
-    -   Mobile Wireframe - [View](
+    -   Mobile Wireframe - [View](https://github.com/andna5980/memorise/blob/main/assets/wireframes/Mobile.pdf)
 
 
     
