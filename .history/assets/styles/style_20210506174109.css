@@ -51,9 +51,11 @@ header {
 
 .game-description {
     margin: 1px;
-    background-color: #FFC75F;
+    /*background-color: #FFC75F;*/
     color: black;
-    text-align: center;    
+    text-align: center;
+    background-image: url(/assets/images/batman.png);
+    
 }
 
 /*--------------------------------GAME AREA--------------------------------*/
