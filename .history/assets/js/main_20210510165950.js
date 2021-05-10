@@ -73,7 +73,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 const grid = document.querySelector('.grid')
 
-// Game Board
+//Board
 function createBoard() {
     for (let i = 0; i < cardArray.length; i++) {
         var card = document.createElement('img')
