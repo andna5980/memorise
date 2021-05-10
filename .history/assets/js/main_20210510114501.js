@@ -84,3 +84,5 @@ function createBoard() {
         grid.appendChild(card)
     }
 }
+
+createBoard()
