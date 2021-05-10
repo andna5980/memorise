@@ -60,12 +60,7 @@ header {
 
 #game-box {
     background-color: black;
-    height: 100px;
-}
-
-.game-area-box {
-    height: 100px;
-    
+    height: 500px;
 }
 
 /*---------GAME AREA *******TESTING ******-----*/
