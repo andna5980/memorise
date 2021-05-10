@@ -86,3 +86,8 @@ function createBoard() {
 }
 
 createBoard()
+
+
+
+const grid = document.querySelector('.grid')
+const resultDisplay = document.querySelector('#result')
