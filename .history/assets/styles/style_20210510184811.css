@@ -38,10 +38,6 @@ header {
     align-items: center;
 }
 
-.change-color p {
-    color: #845EC2;
-}
-
 #changecolor {
     margin: auto;
     /*margin-left: 35%;*/
@@ -64,7 +60,7 @@ header {
 
 #game-box {
     background-color: black;
-    height: 80px;
+    height: 800px;
 }
 
 .game-area-box {

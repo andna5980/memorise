@@ -38,10 +38,6 @@ header {
     align-items: center;
 }
 
-.change-color p {
-    color: #845EC2;
-}
-
 #changecolor {
     margin: auto;
     /*margin-left: 35%;*/
