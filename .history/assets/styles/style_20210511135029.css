@@ -41,24 +41,8 @@ header {
 }
 
 .navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
-    color: white;
+    color: #2f4b58;
 }
-
-
-/*.fixed-top{
-    position: fixed;
-    z-index: 10;
-}
-*/
-
-.navbar-nav li a {
-    margin-top: 25px;
-    color: white;
-    text-align: right;
-    margin-right: 5px;
-}
-
-
 
 /*----------------------------------CHANGE BACKGROUND COLOR AREA -----------------------*/
 

@@ -44,21 +44,10 @@ header {
     color: white;
 }
 
-
-/*.fixed-top{
+.fixed-top{
     position: fixed;
-    z-index: 10;
+    z-index: 5;
 }
-*/
-
-.navbar-nav li a {
-    margin-top: 25px;
-    color: white;
-    text-align: right;
-    margin-right: 5px;
-}
-
-
 
 /*----------------------------------CHANGE BACKGROUND COLOR AREA -----------------------*/
 
