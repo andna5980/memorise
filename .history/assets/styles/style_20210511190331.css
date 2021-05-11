@@ -39,13 +39,8 @@ header {
 .navbar-brand {
     font-family: Original Surfer, Amatic, Helvetica;
     font-size: 180%;
-    /*margin-left: 30%;*/
+    margin-left: 30%;
     margin-top: 20px;
-}
-
-.navbar-light .navbar-toggler {
-    color: rgba(0,0,0,.5);
-    border-color: transparent;
 }
 
 .navbar-light .navbar-brand {

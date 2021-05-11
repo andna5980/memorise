@@ -43,11 +43,6 @@ header {
     margin-top: 20px;
 }
 
-.navbar-light .navbar-toggler {
-    color: rgba(0,0,0,.5);
-    border-color: transparent;
-}
-
 .navbar-light .navbar-brand {
     color: #845EC2;
     border-color:  #845EC2;
