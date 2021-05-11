@@ -45,20 +45,11 @@ header {
 }
 
 
-.fixed-top{
+/*.fixed-top{
     position: fixed;
     z-index: 10;
 }
-
-.navbar-bg{
-    background: transparent;
-}
-
-
-.menu-items{
-    justify-content: flex-end;
-}
-
+*/
 
 .navbar-nav li a {
     margin-top: 25px;

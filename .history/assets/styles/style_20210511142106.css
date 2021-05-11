@@ -45,20 +45,11 @@ header {
 }
 
 
-.fixed-top{
+/*.fixed-top{
     position: fixed;
     z-index: 10;
 }
-
-.navbar-bg{
-    background: transparent;
-}
-
-
-.menu-items{
-    justify-content: flex-end;
-}
-
+*/
 
 .navbar-nav li a {
     margin-top: 25px;
@@ -68,8 +59,8 @@ header {
 }
 
 .navbar-toggler {
-    border: 2px solid white;
-    color: white;
+    border: 2px solid #2F4B58;
+    color: #2F4B58;
 }
 
 
