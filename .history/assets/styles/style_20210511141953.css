@@ -58,7 +58,10 @@ header {
     margin-right: 5px;
 }
 
-
+.navbar-nav li a {
+    margin-top: 20px;
+    color: white;
+}
 
 
 
