@@ -23,11 +23,6 @@ header {
 
 /*------------------------------------------HEADER------------------------*/
 
-.header{
-    height: 200px;
-
-}
-
 .welcome-test {
     text-align: center;
     margin-top: 25px 0;
@@ -68,8 +63,8 @@ header {
 
 .navbar-nav li a {
     margin-top: 25px;
-    color: white
-    text-align: left;
+    color: white;
+    text-align: right;
     margin-right: 5px;
 }
 

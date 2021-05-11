@@ -24,7 +24,7 @@ header {
 /*------------------------------------------HEADER------------------------*/
 
 .header{
-    height: 200px;
+    height: 100px;
 
 }
 
@@ -68,8 +68,8 @@ header {
 
 .navbar-nav li a {
     margin-top: 25px;
-    color: white
-    text-align: left;
+    color: white;
+    text-align: right;
     margin-right: 5px;
 }
 
