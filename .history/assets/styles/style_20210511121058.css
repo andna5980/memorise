@@ -55,7 +55,8 @@ header {
 
 .game-description {
     margin: 1px;
-    padding: 10px;
+    padding: 5px;
+    border: 20px;
     background-color: #00C9A7;
     color: black;
     text-align: center;    
