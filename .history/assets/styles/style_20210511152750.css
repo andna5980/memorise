@@ -37,13 +37,14 @@ header {
 
 .navbar-brand {
     font-family: Original Surfer, Amatic, Helvetica;
-    font-size: 150%;
-    margin-left: 40%;
-    margin-top: 20px;
+    /*font-size: 100%;*/
+    /*margin-left: 20px;*/
+    /*margin-top: 20px;*/
+    text-align: center;
 }
 
 .navbar-light .navbar-brand {
-    color: #845EC2
+    color: black
 }
 
 .navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
@@ -75,7 +76,7 @@ header {
 }
 
 .navbar-toggler {
-    border: 2px solid #845EC2
+    border: 2px solid white;
     color: white;
 }
 
