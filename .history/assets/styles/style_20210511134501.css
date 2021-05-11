@@ -30,13 +30,50 @@ header {
 }
 
 .navbar-brand {
-    font-family: Original Surfer, Amatic, Helvetica;
-    /*font-size: 100%;*/
+    font-family: Caveat Brush, Helvetica, sans-serif;
+    font-size: 280%;
     margin-left: 20px;
-    margin-top: 20px;
+    margin-top: 10px;
+}
+
+.navbar-light .navbar-brand {
+    color: #2F4B58;
+} 
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: #2f4b58;
+}
+
+.fixed-top{
+    position: fixed;
+    z-index: 5;
+}
+
+.navbar-bg{
+    background: white;
 }
 
 
+.menu-items{
+    justify-content: flex-end;
+}
+
+.navbar-nav li a {
+    margin-top: 20px;
+    color: #2F4B58;
+    text-align: right;
+    margin-right: 20px;
+}
+
+.navbar-nav li a {
+    margin-top: 20px;
+    color: #2F4B58;
+}
+
+.navbar-toggler {
+    border: 2px solid #2F4B58;
+    color: #2F4B58;
+}
 
 
 /*----------------------------------CHANGE BACKGROUND COLOR AREA -----------------------*/
