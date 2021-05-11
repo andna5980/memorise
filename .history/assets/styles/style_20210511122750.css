@@ -40,7 +40,7 @@ header {
 
 .change-color p {
     color: white;
-    margin-bottom: 10px;
+    margin: 0 0 0 10;
 }
 
 #changecolor {
@@ -65,7 +65,7 @@ header {
 /*-------------------------------- SCORE GAME AREA--------------------------------*/
 
 #game-box {
-    background-color: #4E8397;
+    background-color: black;
     height: 40px;
 }
 
