@@ -30,7 +30,7 @@ header {
 
 .welcome-test {
     text-align: center;
-    margin-top: 10px 0;
+    margin-top: 25px 0;
     padding-top: 30px;
 }
 
@@ -42,7 +42,7 @@ header {
 }
 
 .navbar-light .navbar-brand {
-    color: black
+    color: white;
 }
 
 .navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
