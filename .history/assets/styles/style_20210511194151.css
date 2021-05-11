@@ -88,6 +88,8 @@ header {
 
 
 
+
+
 /*----------------------------------GAME DESCRIPTION -----------------------*/
 
 .game-description {
@@ -109,13 +111,6 @@ header {
     height: 100px;
     
 }
-
-#letsplay {
-    width: 40%;
-    margin-left: 30%;
-    margin-right: 30%;
-}
-
 
 /*---------GAME AREA *******TESTING ******-----*/
 
