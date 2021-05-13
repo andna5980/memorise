@@ -122,9 +122,9 @@ header {
 .grid {
     display: flex;
     flex-wrap: wrap;
-    height: 500px;
+    height: 400px;
     /*width: 400px;*/  
-    padding: 5% 10%;  
+    padding: 40px 40px; 
 }
 
 
