@@ -60,12 +60,12 @@ document.addEventListener('DOMContentLoaded', () => {
             img: 'assets/images/robin.png'
         },
         {
-            name: 'lego',
-            img: 'assets/images/legobw.png'
+            name: 'queen',
+            img: 'assets/images/queen.png'
         },
         {
-            name: 'lego',
-            img: 'assets/images/legobw.png'
+            name: 'queen',
+            img: 'assets/images/queen.png'
         },
 
     ]

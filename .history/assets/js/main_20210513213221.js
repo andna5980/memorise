@@ -61,11 +61,11 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             name: 'lego',
-            img: 'assets/images/legobw.png'
+            img: 'assets/images/legob&w.png'
         },
         {
             name: 'lego',
-            img: 'assets/images/legobw.png'
+            img: 'assets/images/legob&w.png'
         },
 
     ]
