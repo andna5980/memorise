@@ -96,8 +96,8 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         else if (cardsChosen[0] === cardsChosen[1]) {
-            cards[optionOneId].setAttribute('src', 'assets/images/checkbox.png')
-            cards[optionTwoId].setAttribute('src', 'assets/images/checkbox.png')
+            cards[optionOneId].setAttribute('src', 'assets/images/legob&w.png')
+            cards[optionTwoId].setAttribute('src', 'assets/images/legob&w.png')
             cards[optionOneId].removeEventListener('click', flipCard)
             cards[optionTwoId].removeEventListener('click', flipCard)
             cardsMatched.push(cardsChosen)

@@ -90,21 +90,21 @@ document.addEventListener('DOMContentLoaded', () => {
         const optionTwoId = cardsChosenId[1]
 
         if (optionOneId === optionTwoId) {
-            cards[optionOneId].setAttribute('src', 'assets/images/lego.png')
-            cards[optionTwoId].setAttribute('src', 'assets/images/lego.png')
+            cards[optionOneId].setAttribute('src', 'assets/images/legob&w.png')
+            cards[optionTwoId].setAttribute('src', 'assets/images/legob&w.png')
             alert('You selected the same image, try again.')
         }
 
         else if (cardsChosen[0] === cardsChosen[1]) {
-            cards[optionOneId].setAttribute('src', 'assets/images/checkbox.png')
-            cards[optionTwoId].setAttribute('src', 'assets/images/checkbox.png')
+            cards[optionOneId].setAttribute('src', 'assets/images/lego.png')
+            cards[optionTwoId].setAttribute('src', 'assets/images/lego.png')
             cards[optionOneId].removeEventListener('click', flipCard)
             cards[optionTwoId].removeEventListener('click', flipCard)
             cardsMatched.push(cardsChosen)
             alert('Cards Matched !!')
         } else {
-            cards[optionOneId].setAttribute('src', 'assets/images/lego.png')
-            cards[optionTwoId].setAttribute('src', 'assets/images/lego.png')
+            cards[optionOneId].setAttribute('src', 'assets/images/legob&w.png')
+            cards[optionTwoId].setAttribute('src', 'assets/images/legob&w.png')
             alert('Not this time, keep trying !!')
         }
         cardsChosen = []
