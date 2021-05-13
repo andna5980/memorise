@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', () => {
             //card.setAttribute('src', cardArray[i]['img'])
             card.setAttribute('src', 'assets/images/lego.png')
             card.setAttribute('data-id', i)
-            card.addEventListener('click', flipCard)
+            card.addEventListener('click', flipcard)///
             grid.appendChild(card)
         }
     }
@@ -96,13 +96,13 @@ document.addEventListener('DOMContentLoaded', () => {
         const cards = document.querySelectorAll('img')
         const optionOneId = cardsChosen[0]
         const optionTwoId = cardsChosen[1]
-
-        if (optionOneId === optionTwoId) {
+        
+        if (cardsChosen[0] === cardsChosen[1]) {
+            alert('Card Matched !!')
             cards[optionOneId].setAttribute('src', 'assets/images/white.png')
             cards[optionTwoId].setAttribute('src', 'assets/images/white.png')
-            alert('Card Matched !!')
-        } else {
             cardsMatched.push(cardsChosen)
+        } else {
             cards[optionOneId].setAttribute('src', 'assets/images/lego.png')
             cards[optionTwoId].setAttribute('src', 'assets/images/lego.png')
             alert('Not this time, keep trying !!')
@@ -116,7 +116,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     // cards flip
-    function flipCard() {
+    function flipcard() {
         var cardId = this.getAttribute('data-id')
         cardsChosen.push(cardArray[cardId].name)
         cardsChosenId.push(cardId)
