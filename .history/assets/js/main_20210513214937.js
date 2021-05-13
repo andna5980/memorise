@@ -45,11 +45,11 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             name: 'greenman',
-            img: 'assets/images/greenman200.png'
+            img: 'assets/images/greenman.png'
         },
         {
             name: 'greenman',
-            img: 'assets/images/greenman200.png'
+            img: 'assets/images/greenman.png'
         },
         {
             name: 'ninja',
@@ -61,11 +61,11 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             name: 'batman',
-            img: 'assets/images/batman200.png'
+            img: 'assets/images/batman.png'
         },
         {
             name: 'batman',
-            img: 'assets/images/batman200.png'
+            img: 'assets/images/batman.png'
         },
 
     ]
@@ -104,8 +104,8 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         else if (cardsChosen[0] === cardsChosen[1]) {
-            cards[optionOneId].setAttribute('src', 'assets/images/checkbox200.png')
-            cards[optionTwoId].setAttribute('src', 'assets/images/checkbox200.png')
+            cards[optionOneId].setAttribute('src', 'assets/images/legobw.png')
+            cards[optionTwoId].setAttribute('src', 'assets/images/legobw.png')
             cards[optionOneId].removeEventListener('click', flipCard)
             cards[optionTwoId].removeEventListener('click', flipCard)
             cardsMatched.push(cardsChosen)
