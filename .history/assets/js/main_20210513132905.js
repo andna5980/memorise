@@ -72,10 +72,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
     const grid = document.querySelector('.grid')
-    const resultDisplay = document.querySelector('#result')
     var cardsChosen = []
     var cardsChosenId = []
-    var cardsMatched = []
 
     // Game Board
     function createBoard() {
@@ -84,7 +82,7 @@ document.addEventListener('DOMContentLoaded', () => {
             //card.setAttribute('src', cardArray[i]['img'])
             card.setAttribute('src', 'assets/images/lego.png')
             card.setAttribute('data-id', i)
-            card.addEventListener('click', flipcard)
+            //card.addEventListener('click', flipcard)
             grid.appendChild(card)
         }
     }
@@ -99,15 +97,8 @@ document.addEventListener('DOMContentLoaded', () => {
             alert('Card Matched !!')
             cards[optionOneId].setAttribute('src', 'assets/images/white.png')
             cards[optionTwoId].setAttribute('src', 'assets/images/white.png')
-            cardsMatched.push(cardsChosen)
-        } else {
-            cards[optionOneId].setAttribute('src', 'assets/images/lego.png')
-            cards[optionTwoId].setAttribute('src', 'assets/images/lego.png')
-            alert('Not this time, keep trying !!')
         }
-        cardsChosen = []
-        cardsChosenId = []
-        resultDisplay.textContent
+
     }
 
     // cards flip
