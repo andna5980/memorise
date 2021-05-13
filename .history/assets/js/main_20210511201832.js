@@ -21,51 +21,51 @@ document.addEventListener('DOMContentLoaded', () => {
     const cardArray = [
         {
             name: 'woman',
-            img: 'assets/images/wonderwoman.png'
+            img: 'images/wonderwoman.png'
         },
         {
             name: 'woman',
-            img: 'assets/images/wonderwoman.png'
+            img: 'images/wonderwoman.png'
         },
         {
             name: 'batman',
-            img: 'assets/images/batman.png'
+            img: 'images/batman.png'
         },
         {
             name: 'batman',
-            img: 'assets/images/batman.png'
+            img: 'images/batman.png'
         },
         {
             name: 'boxer',
-            img: 'assets/images/boxer.png'
+            img: 'images/boxer.png'
         },
         {
             name: 'boxer',
-            img: 'assets/images/boxer.png'
+            img: 'images/boxer.png'
         },
         {
             name: 'gadget',
-            img: 'assets/images/gadget.png'
+            img: 'images/gadget.png'
         },
         {
             name: 'gadget',
-            img: 'assets/images/gadget.png'
+            img: 'images/gadget.png'
         },
         {
             name: 'greenman',
-            img: 'assets/images/greenman.png'
+            img: 'images/greenman.png'
         },
         {
             name: 'greenman',
-            img: 'assets/images/greenman.png'
+            img: 'images/greenman.png'
         },
         {
             name: 'ninja',
-            img: 'assets/images/ninja.png'
+            img: 'images/ninja.png'
         },
         {
             name: 'ninja',
-            img: 'assets/images/ninja.png'
+            img: 'images/ninja.png'
         },
 
     ]
@@ -77,7 +77,7 @@ document.addEventListener('DOMContentLoaded', () => {
     function createBoard() {
         for (let i = 0; i < cardArray.length; i++) {
             var card = document.createElement('img')
-            card.setAttribute('src', cardArray[i]['img'])
+            card.setAttribute('src', 'images/lego.png')
             card.setAttribute('data-id', i)
             //card.addEventListener('click', flipcard)
             grid.appendChild(card)
