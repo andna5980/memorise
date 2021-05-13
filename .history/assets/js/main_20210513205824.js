@@ -111,7 +111,7 @@ document.addEventListener('DOMContentLoaded', () => {
         cardsChosenId = []
         resultDisplay.textContent = cardsMatched.length
         if (cardsMatched.length === cardArray.length/2) {
-            resultDisplay.textContent = ' Well done you found all the pairs'
+            resultDisplay.textContent = 'Well done you found all the pairs'
         }
     }
 

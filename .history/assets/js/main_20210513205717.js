@@ -96,8 +96,8 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         else if (cardsChosen[0] === cardsChosen[1]) {
-            cards[optionOneId].setAttribute('src', 'assets/images/white.png')
-            cards[optionTwoId].setAttribute('src', 'assets/images/white.png')
+            cards[optionOneId].setAttribute('src', 'assets/images/checkbox.png')
+            cards[optionTwoId].setAttribute('src', 'assets/images/checkbox.png')
             cards[optionOneId].removeEventListener('click', flipCard)
             cards[optionTwoId].removeEventListener('click', flipCard)
             cardsMatched.push(cardsChosen)
@@ -111,7 +111,7 @@ document.addEventListener('DOMContentLoaded', () => {
         cardsChosenId = []
         resultDisplay.textContent = cardsMatched.length
         if (cardsMatched.length === cardArray.length/2) {
-            resultDisplay.textContent = ' Well done you found all the pairs'
+            resultDisplay.textContent = 'Well done you found all the pairs'
         }
     }
 
