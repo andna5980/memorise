@@ -89,15 +89,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
     // cards matches
-    function checkForMatch() {
-        var cards = document.querySelectorAll('img')
-        const optionOneId = cardsChosen[0]
-        const optionTwoId = cardsChosen[1]
-        if (cardsChosen[0] === cardsChosen[1]) {
-            alert('Card Matched !!')
-        }
-
-    }
 
     // cards flip
     function flipcard() {
