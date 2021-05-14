@@ -45,11 +45,11 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             name: 'greenman',
-            img: 'assets/images/greenman.png'
+            img: 'assets/images/greenman200.png'
         },
         {
             name: 'greenman',
-            img: 'assets/images/greenman.png'
+            img: 'assets/images/greenman200.png'
         },
         {
             name: 'ninja',
