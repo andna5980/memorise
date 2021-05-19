@@ -1,18 +1,18 @@
 //Colors array
-//let colors = ['black','blue','yellow', 'white','brown'];
+let colors = ['black','blue','yellow', 'white','brown'];
 
 //get button
-//let button = document.getElementById('changecolor');
+let button = document.getElementById('changecolor');
 
 //add Event for changing colors
-//button.addEventListener('click', function(){
+button.addEventListener('click', function(){
 
 //add random color
-//var randomColor = colors[Math.floor(Math.random() * colors.length)]
-//let container = document.getElementById('game-box')
+var randomColor = colors[Math.floor(Math.random() * colors.length)]
+let container = document.getElementById('game-box')
 
-  //container.style.background = randomColor;
-//})
+  container.style.background = randomColor;
+})
 
 //CARD GAME CODE 
 

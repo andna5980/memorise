@@ -1,0 +1,189 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Original+Surfer&display=swap');
+body {
+    /*font-family: Arial, Helvetica, sans-serif;*/
+    font-family: Original Surfer, Amatic, Helvetica; 
+    color: whitesmoke;
+    max-width: 2000px;
+}
+
+header {
+    font-family: Original Surfer, Amatic, Helvetica;
+    color:  #845EC2;
+    /*background-color: #845EC2;*/
+}
+
+/* ----- ROWS AND COLUMM AREAS - TESTING -----*/ 
+
+.test-red {
+    border: 1px solid red
+}
+
+.test-blue {
+    border: 1px solid blue;
+}
+
+/*------------------------------------------HEADER------------------------*/
+
+.header{
+    height: 160px;
+    padding-top: 50px;
+
+}
+
+.welcome-test {
+    text-align: center;
+    margin-top: 10px 0;
+    padding-top: 30px;
+}
+
+
+.navbar-brand {
+    font-family: Original Surfer, Amatic, Helvetica;
+    font-size: 200%;
+    /*margin-left: 30%;*/
+    margin-top: 20px;
+}
+
+.navbar-light .navbar-toggler {
+    color:  #845EC2;
+    border-color: transparent;
+}
+
+.navbar-light .navbar-brand {
+    color: #845EC2;
+    border-color:  #845EC2;
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color:#845EC2;
+}
+
+
+.fixed-top{
+    position: fixed;
+    z-index: 10;
+    
+}
+
+.navbar-bg{
+    background: white;
+}
+
+
+.menu-items{
+    justify-content: flex-end;
+}
+
+
+.navbar-nav li a {
+    margin-top: 25px;
+    color: white;
+    text-align: left;
+    margin-right: 5px;
+}
+
+.navbar-toggler {
+    
+    color: #845EC2;
+}
+
+
+
+/*----------------------------------GAME DESCRIPTION -----------------------*/
+
+.game-description {
+    margin: 1px;
+    padding: 20px;
+    background-color: #845EC2;
+    color:white;
+    text-align: center;    
+}
+
+/*-------------------------------- GAME SCORE AREA--------------------------------*/
+
+#game-box {
+    background-color:  #9B89B3;
+    height: 90px;
+}
+
+.game-area-box {
+    height: 85px;
+    
+}
+
+#letsplay {
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    /*width: 400px;*/  
+    padding: 1% 1%;  
+}
+
+
+/*----------------------------------CHANGE BACKGROUND COLOR AREA -----------------------*/
+
+.change-color {
+    background-color: #9B89B3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.change-color p {
+    color: white;
+    margin-bottom: 10px;
+}
+
+#changecolor {
+    margin: auto;
+    /*margin-left: 35%;*/
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+/*--------------------------------FOOTER--------------------------------*/
+
+footer {
+    font-family: Original Surfer, Amatic, Helvetica;
+    color: whitesmoke;
+    background-color: #845EC2;
+    height: 90px;
+    width: 100%;
+    overflow: hidden;
+    position: absolute;
+    bottom: 2;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks a {
+    color: white;
+    margin: 1px;
+    padding: 1px;
+    display: inline-block;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.social-networks a i:hover {
+    color: #F9F871;
+}
+
+.social-networks i {
+    font-size: 150%;
+}
+
+
