@@ -1,5 +1,5 @@
 //Colors array
-let colors = ['black','white'];
+let colors = ['black','blue','yellow', 'white','brown'];
 
 //get button
 let button = document.getElementById('changecolor');
