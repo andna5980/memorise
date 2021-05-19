@@ -1,11 +1,11 @@
 //Colors array
-//let colors = ['black','white'];
+let colors = ['black','white'];
 
 //get button
-//let button = document.getElementById('changecolor');
+let button = document.getElementById('changecolor');
 
 //add Event for changing colors
-//button.addEventListener('click', function(){
+button.addEventListener('click', function(){
 
 //add random color
 //var randomColor = colors[Math.floor(Math.random() * colors.length)]
