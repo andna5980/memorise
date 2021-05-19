@@ -103,7 +103,7 @@ header {
 
 #game-box {
     background-color:  #9B89B3;
-    height: 90px;
+    height: 85px;
 }
 
 .game-area-box {
@@ -160,7 +160,7 @@ footer {
     width: 100%;
     overflow: hidden;
     position: absolute;
-    bottom: 2;
+    bottom: 0;
 }
 
 .social-networks {
