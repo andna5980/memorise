@@ -160,7 +160,7 @@ footer {
     width: 100%;
     overflow: hidden;
     position: absolute;
-    bottom: 1;
+    bottom: 0;
 }
 
 .social-networks {
