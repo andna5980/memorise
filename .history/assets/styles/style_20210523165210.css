@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Original+Surfer&display=swap');
 body {
-    
+    /*font-family: Arial, Helvetica, sans-serif;*/
     font-family: Original Surfer, Amatic, Helvetica; 
     color: whitesmoke;
     max-width: 2000px;
@@ -9,8 +9,18 @@ body {
 header {
     font-family: Original Surfer, Amatic, Helvetica;
     color:  #845EC2;
-    
+    /*background-color: #845EC2;*/
 }
+
+/* ----- ROWS AND COLUMM AREAS - TESTING -----*/ 
+
+/*.test-red {
+    border: 1px solid red
+}*/
+
+/*.test-blue {
+    border: 1px solid blue;
+}*/
 
 /*------------------------------------------HEADER------------------------*/
 
@@ -150,7 +160,7 @@ footer {
     width: 100%;
     overflow: hidden;
     position: absolute;
-    bottom: 1;
+    bottom: 2px;
 }
 
 .social-networks {
