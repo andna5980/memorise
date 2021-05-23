@@ -162,5 +162,14 @@ Lego Images used in the game.
 [Check mark Image](https://www.pngfind.com/mpng/wwwhbx_kisspng-computer-icons-check-mark-presentation-symbol-ok/)
 
 
+### Acknowledge
+
+-   My mentor Narender Singh for his help and support during the harders days.
+
+-   Code Institute Community and Slack Page.
+
+-   The private Student group created by Code institute Students that joined the course Nov20 for all the support.
+
+
 
     
