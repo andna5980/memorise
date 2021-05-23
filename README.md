@@ -124,7 +124,7 @@ Memorise Website was deployed to Github Pages using the following steps
 General information about software development.
 
 [JavaScript Promises in 10 Minutes](https://www.youtube.com/watch?v=DHvZLI7Db8E&list=PLZlA0Gpn_vH-0FlQnruw2rd1HuiYJHHkm)  
-Explanation about some functionalities JavaScript.
+Explanation about some JavaScript functionalities.
 
 [Stackoverflow](https://stackoverflow.com/)  
 General code queries.
