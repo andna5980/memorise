@@ -3,7 +3,7 @@ memory game
 
 <h1 align="center">Memorise Game</h1>
 
-[View the live project here.](https://andna5980.github.io/........)
+[View the live project here.](https://andna5980.github.io/memorise/index.html)
 
 This is Memory game Website. This website has been designed to be responsibe and interactive from different devices in order to make the navigation user experience easy and enjoyable.
 
