@@ -17,13 +17,9 @@ This is Memory game Website. This website has been designed to be responsibe and
 
     3. As a user I want to find on the site easy and fun to play. Also, I would like to see relevant information that help me understand the benefits of playing this game.
 
-    4. As a user, I would like to chose diferent levels of difficulty. 
-
-    5. As a user, I would like to find their social media links, so I can see if the have other products. 
+    4. As a user, I would like to find their social media links, so I can see if the have other products. 
     
-    6. As a user I would like to be rewarded every time I win. 
-    
-    7. As a user I want to be informed of the different areas of the screen game. 
+    6. As a user I want to be informed of the different areas of the screen game. 
 
 -  ### Design
     -   #### Colour Scheme 
@@ -88,20 +84,20 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   ####    Visitor Goals
 
     1. As a user, I want to rapidly understand the purpose of the website and get the information about the game including how to play it.
-        1. 
+        1. User will easily understand the purpose of the website, with a clear access to the navigation bar that will lead to the other pages.
+        2. The main page contain the memory game. 
     
     2. As a user I want to be able to navigate through the page in a ease and clearly way. 
-        1. 
-    3. As a user I want to find on the site easy and fun to play. Also, I would like to see relevant information that help me understand the benefits of playing this game.
-        1. sdfdsfs
-     4. As a user, I would like to chose diferent levels of difficulty. 
-        1. dfsdfs
-     5. As a user, I would like to find their social media links, so I can see if the have other products.
-        1. sdfsf
-     6. As a user I would like to be rewarded every time I win.
-        1. kkjlkjlk
-     7. As a user I want to be informed of the different areas of the screen game.
-        1. dasdads
+        1. The page clearly shows the different pages and the purpose of every one of them.
+    
+    3. As a user I want to find on the site easy and fun to play. Also, I would like to see relevant information that help me understand the benefits of playing          this game.
+        1. The page display the game in the main area, there are other pages that help the user understand the purpose of the page nd some useful information about            the game. 
+    
+    4. As a user, I would like to find their social media links, so I can see if the have other products.
+        1. User will find all the social media links in every page. The links are easy to identify by some icons.
+    
+    5. As a user I want to be informed of the different areas of the screen game.
+        1. User will be able to see a description of the game area in te help area.
 
 
     
