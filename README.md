@@ -100,7 +100,21 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
         1. User will be able to see a description of the game and how to play it.
 
 
-    
+## Deployment
+
+### GitHub Pages
+
+Memorise Website was deployed to Github Pages using the following steps 
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+2. At the right top of github page, click on the the icon / **Your repositories**  
+3. Select the name of the **Repository** (memorise).
+4. Once inside the repository needed, go to **Settings**
+5. Scroll down the Settings page until you locate the "GitHub Pages" Section.
+6. Under "Source", click the dropdown called "None" and select "Master Branch".
+7. The page will automatically refresh.
+8. Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
+
      
 
 
