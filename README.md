@@ -19,7 +19,7 @@ This is Memory game Website. This website has been designed to be responsibe and
 
     4. As a user, I would like to find their social media links, so I can see if the have other products. 
     
-    6. As a user I want to be informed of the different areas of the screen game. 
+    6. As a user I want to be informed of how to play the game. 
 
 -  ### Design
     -   #### Colour Scheme 
@@ -96,8 +96,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
     4. As a user, I would like to find their social media links, so I can see if the have other products.
         1. User will find all the social media links in every page. The links are easy to identify by some icons.
     
-    5. As a user I want to be informed of the different areas of the screen game.
-        1. User will be able to see a description of the game area in te help area.
+    5. As a user I want to be informed of how to play the game. .
+        1. User will be able to see a description of the game and how to play it.
 
 
     
