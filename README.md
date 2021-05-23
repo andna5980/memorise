@@ -39,5 +39,21 @@ This is Memory game Website. This website has been designed to be responsibe and
 
     -   Mobile Wireframe - [View](https://github.com/andna5980/memorise/blob/main/assets/wireframes/Mobile.pdf)
 
+##  Features
+
+-   Responsive with all device sizes
+
+-   Include interactive elements
+
+##  Technologies Used
+
+### Languages Used
+
+-   [HTTML5]
+-   [CSS3]
+-   [JS]
+
+##
+
 
     
