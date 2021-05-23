@@ -133,7 +133,33 @@ General code queries.
 Color Palette generator.  
 
 
+### Images :
 
+Lego Images used in the game.
+
+* Lego Images from pngTree:
+[Queen Elizabeth](https://pngtree.com/freepng/queen-elizabeth-in-lego-style_4860480.html)
+
+* Lego Images from pngmart:
+[Lego movie toy](http://www.pngmart.com/image/274993/png/274992)
+[Batman Mask](http://www.pngmart.com/image/222915/png/222914)
+[Legp Movie](http://www.pngmart.com/image/73187/png/73186)
+
+* Lego Images from pngegg
+[Lego Detective](https://www.pngegg.com/en/png-yqzwf/download)
+
+* Lego Images from cleanpng
+[Ninga Cartoon](https://www.cleanpng.com/png-lloyd-garmadon-lego-ninjago-sensei-wu-lego-minifig-2213566/download-png.html)
+[Prince Cartoon](https://www.cleanpng.com/png-diana-prince-toy-lego-super-heroes-superhero-the-s-908609/download-png.html)
+
+* Lego Image from freepng
+[Lego boxer](https://www.freepng.es/png-0owgzl/download.html)
+
+* Lego Image from pngitem
+[Lego Logo](https://www.pngitem.com/middle/iRiTbJx_lego-logo-icon-hd-png-download/)
+
+* Image from pngfind
+[Check mark Image](https://www.pngfind.com/mpng/wwwhbx_kisspng-computer-icons-check-mark-presentation-symbol-ok/)
 
 
 
