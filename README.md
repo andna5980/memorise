@@ -116,6 +116,21 @@ Memorise Website was deployed to Github Pages using the following steps
 8. Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
 
      
+## Credits
+
+### Content
+
+[W3schools](https://www.w3schools.com/)  
+General information about software development.
+
+[JavaScript Promises in 10 Minutes](https://www.youtube.com/watch?v=DHvZLI7Db8E&list=PLZlA0Gpn_vH-0FlQnruw2rd1HuiYJHHkm)  
+Explanation about some functionalities JavaScript.
+
+[Stackoverflow](https://stackoverflow.com/)  
+General code queries.
+
+[Colorspace](https://mycolor.space/)
+Color Palette generator.  
 
 
 
