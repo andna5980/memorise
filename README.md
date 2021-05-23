@@ -83,7 +83,30 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results]
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results]
 
-### 
+### Testing User Stories from User Experience (UX) Section
+
+-   ####    Visitor Goals
+
+    1. As a user, I want to rapidly understand the purpose of the website and get the information about the game including how to play it.
+        1. 
+    
+    2. As a user I want to be able to navigate through the page in a ease and clearly way. 
+        1. 
+    3. As a user I want to find on the site easy and fun to play. Also, I would like to see relevant information that help me understand the benefits of playing this game.
+        1. sdfdsfs
+     4. As a user, I would like to chose diferent levels of difficulty. 
+        1. dfsdfs
+     5. As a user, I would like to find their social media links, so I can see if the have other products.
+        1. sdfsf
+     6. As a user I would like to be rewarded every time I win.
+        1. kkjlkjlk
+     7. As a user I want to be informed of the different areas of the screen game.
+        1. dasdads
+
+
+    
+     
+
 
 
 
