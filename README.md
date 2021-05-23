@@ -53,7 +53,31 @@ This is Memory game Website. This website has been designed to be responsibe and
 -   [CSS3]
 -   [JS]
 
-##
+### Frameworks, Libraries and Programs Used
+
+1.  [Google Fonts](https://fonts.google.com)
+    - Google fonts were used to import fonts into the CSS file.
+1.  [Font Awesome:](https://fontawesome.com/)
+    - Font Awesome was used on all pages to add icons mainly the footer.
+1. [Visual Studio Code:](https://code.visualstudio.com/)
+    - Visual Studio Code is the main editor used to write the code and also to commit and push to Github.
+1. [Bootstrap 4.4.1:](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+    - Bootstrap was used to assist with the responsiveness and styling of the website.    
+1. [Hover.css:](https://ianlunn.github.io/Hover/)
+    - Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
+1. [jQuery:](https://jquery.com/)
+    - jQuery came with Bootstrap to make the navbar responsive.
+1. [Git](https://git-scm.com/)
+    - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+1. [GitHub:](https://github.com/)
+    - GitHub is used to store the projects code after being pushed from Git.
+1. [Tinypng:](https://tinypng.com/)
+    - Tinypng was used to compress all the images used in the website.
+1. [Balsamiq:](https://balsamiq.com/)
+    - Balsamiq was used to create the wireframes as part of the design process.
+
+
+
 
 
     
