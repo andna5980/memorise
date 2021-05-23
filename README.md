@@ -47,7 +47,7 @@ This is Memory game Website. This website has been designed to be responsibe and
 
 -   [HTTML5]
 -   [CSS3]
--   [JS]
+-   [JavaScript]
 
 ### Frameworks, Libraries and Programs Used
 
