@@ -22,7 +22,7 @@ header {
 
 .welcome-test {
     text-align: center;
-    margin-top: 10px;
+    margin-top: 10px 0px;
     padding-top: 30px;
 }
 
@@ -127,7 +127,7 @@ footer {
     width: 100%;
     overflow: hidden;
     position: absolute;
-    bottom: 2;
+    /*bottom: 1px;*/
 }
 
 .social-networks {
