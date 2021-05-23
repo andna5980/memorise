@@ -1,7 +1,7 @@
 
 //CARD GAME CODE 
 
-document.addEventListener("DOMContentLoaded", () => {
+document.addEventListener('DOMContentLoaded', () => {
 
     const cardArray = [
         {
@@ -69,7 +69,7 @@ document.addEventListener("DOMContentLoaded", () => {
             var card = document.createElement('img')
             card.setAttribute('src', 'assets/images/lego.png')
             card.setAttribute('data-id', i)
-            card.addEventListener('click', flipCard);
+            card.addEventListener('click', flipCard)
             grid.appendChild(card)
         }
     }

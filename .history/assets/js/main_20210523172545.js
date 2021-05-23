@@ -5,60 +5,60 @@ document.addEventListener("DOMContentLoaded", () => {
 
     const cardArray = [
         {
-            name: 'woman',
-            img: 'assets/images/wonderwoman.png'
+            name: "woman",
+            img: "assets/images/wonderwoman.png"
         },
         {
-            name: 'woman',
-            img: 'assets/images/wonderwoman.png'
+            name: "woman",
+            img: "assets/images/wonderwoman.png"
         },
         {
-            name: 'boxer',
-            img: 'assets/images/boxer.png'
+            name: "boxer",
+            img: "assets/images/boxer.png'
         },
         {
-            name: 'boxer',
-            img: 'assets/images/boxer.png'
+            name: "boxer",
+            img: "assets/images/boxer.png"
         },
         {
-            name: 'gadget',
-            img: 'assets/images/gadget200.png'
+            name: "gadget",
+            img: "assets/images/gadget200.png"
         },
         {
-            name: 'gadget',
-            img: 'assets/images/gadget200.png'
+            name: "gadget",
+            img: "assets/images/gadget200.png"
         },
         {
-            name: 'greenman',
-            img: 'assets/images/greenman200.png'
+            name: "greenman",
+            img: "assets/images/greenman200.png"
         },
         {
-            name: 'greenman',
-            img: 'assets/images/greenman200.png'
+            name: "greenman",
+            img: "assets/images/greenman200.png"
         },
         {
-            name: 'ninja',
-            img: 'assets/images/robin.png'
+            name: "ninja",
+            img: "assets/images/robin.png"
         },
         {
-            name: 'ninja',
-            img: 'assets/images/robin.png'
+            name: "ninja",
+            img: "assets/images/robin.png"
         },
         {
-            name: 'batman',
-            img: 'assets/images/batman200.png'
+            name: "batman",
+            img: "assets/images/batman200.png"
         },
         {
-            name: 'batman',
-            img: 'assets/images/batman200.png'
+            name: "batman",
+            img: "assets/images/batman200.png"
         },
 
     ]
 
     cardArray.sort(() => 0.5 - Math.random())
 
-    const grid = document.querySelector('.grid')
-    const resultDisplay = document.querySelector('#result')
+    const grid = document.querySelector(".grid")
+    const resultDisplay = document.querySelector("#result")
     let cardsChosen = []
     let cardsChosenId = []
     let cardsMatched = []
@@ -66,10 +66,10 @@ document.addEventListener("DOMContentLoaded", () => {
     // Game Board
     function createBoard() {
         for (let i = 0; i < cardArray.length; i++) {
-            var card = document.createElement('img')
-            card.setAttribute('src', 'assets/images/lego.png')
-            card.setAttribute('data-id', i)
-            card.addEventListener('click', flipCard);
+            var card = document.createElement("img")
+            card.setAttribute("src", "assets/images/lego.png")
+            card.setAttribute("data-id", i)
+            card.addEventListener("click", flipCard);
             grid.appendChild(card)
         }
     }
@@ -77,7 +77,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // cards matches
     function checkForMatch() {
-        const cards = document.querySelectorAll('img')
+        const cards = document.querySelectorAll("img")
         const optionOneId = cardsChosenId[0]
         const optionTwoId = cardsChosenId[1]
 
